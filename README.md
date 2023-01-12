@@ -4,6 +4,8 @@
 
 # streamlit: A faster way to build and share data apps
 
+# stream-cloud: rwepahello.streamlit.app
+
 # Conda 安裝方法
 
 conda install -c conda-forge streamlit
