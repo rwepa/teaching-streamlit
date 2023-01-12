@@ -38,6 +38,6 @@ https://github.com/rwepa/teaching-streamlit/tree/main/hello_streamlit
 
 ## 參考資料
 
-1. Streamit 官網: https://streamlit.io/
+1. Streamlit 官網: https://streamlit.io/
 2. shiny for Python (Python 使用 shiny 模組教學): http://rwepa.blogspot.com/2022/10/shiny-for-python.html
 3. shiny package 網路應用: http://rwepa.blogspot.com/2013/01/shiny-package.html
