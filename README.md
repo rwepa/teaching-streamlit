@@ -6,7 +6,7 @@
 
 # stream-cloud:
 
-rwepahello.streamlit.app
+https://rwepahello.streamlit.app/
 
 # Conda 安裝方法
 
