@@ -4,7 +4,9 @@
 
 # streamlit: A faster way to build and share data apps
 
-# streamlit 執行方式
+# 範例1: hello_streamlit 
+
+## hello_streamlit 執行方式
 
 考慮建立 D:\streamlitdata\hello_streamlit\app.py
 
@@ -14,7 +16,13 @@ d:
 cd streamlitdata\hello_streamlit
 streamlit run app.py
 
+![image](https://github.com/rwepa/teaching-streamlit/blob/main/images/hello_streamlit_run.png)
+
+## 執行成果
+
 執行後將自動開啟瀏覽器或於瀏覽器輸入 http://localhost:8501/
 
-# 參考資料
+![image](https://github.com/rwepa/teaching-streamlit/blob/main/images/hello_streamlit.png)
+
+## 參考資料
 Streamit 官網: https://streamlit.io/
