@@ -6,7 +6,7 @@
 
 # 範例1: hello_streamlit 
 
-**Youtube: ...**
+**YouTube: ...**
 
 **hello_streamlit 執行方式**
 
