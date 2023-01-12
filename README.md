@@ -4,5 +4,17 @@
 
 # streamlit: A faster way to build and share data apps
 
+# streamlit 執行方式
+
+考慮建立 D:\streamlitdata\hello_streamlit\app.py
+
+命令提示字元輸入以下內容:
+
+d:
+cd streamlitdata\hello_streamlit
+streamlit run app.py
+
+執行後將自動開啟瀏覽器或於瀏覽器輸入 http://localhost:8501/
+
 # 參考資料
 Streamit 官網: https://streamlit.io/
