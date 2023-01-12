@@ -6,6 +6,8 @@
 
 # 範例1: hello_streamlit 
 
+**Youtube: ...**
+
 **hello_streamlit 執行方式**
 
 考慮建立 D:\streamlitdata\hello_streamlit\app.py
