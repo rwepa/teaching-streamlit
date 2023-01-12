@@ -6,7 +6,7 @@
 
 # 範例1: hello_streamlit 
 
-## hello_streamlit 執行方式
+**hello_streamlit 執行方式**
 
 考慮建立 D:\streamlitdata\hello_streamlit\app.py
 
@@ -20,13 +20,13 @@ streamlit run app.py
 
 ![image](https://github.com/rwepa/teaching-streamlit/blob/main/images/hello_streamlit_run.png)
 
-## 執行成果
+**執行成果**
 
 執行後將自動開啟瀏覽器或於瀏覽器輸入 http://localhost:8501/
 
 ![image](https://github.com/rwepa/teaching-streamlit/blob/main/images/hello_streamlit.png)
 
-## Python程式碼
+**Python程式碼**
 
 https://github.com/rwepa/teaching-streamlit/tree/main/hello_streamlit
 
