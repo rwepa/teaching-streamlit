@@ -4,7 +4,7 @@
 
 # streamlit: A faster way to build and share data apps
 
-# Community cloud:
+# Community cloud (免費線上瀏覽)
 
 https://rwepahello.streamlit.app/
 
