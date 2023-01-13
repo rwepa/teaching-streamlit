@@ -4,9 +4,13 @@
 
 # streamlit: A faster way to build and share data apps
 
-# Community cloud (免費線上瀏覽)
+# Cloud 佈署成果
 
 https://rwepahello.streamlit.app/
+
+# Community Cloud(包括免費版本)
+
+https://streamlit.io/cloud
 
 # Conda 安裝方法
 
@@ -14,7 +18,7 @@ conda install -c conda-forge streamlit
 
 # 範例1: hello_streamlit 
 
-**YouTube: ...**
+**YouTube: https://youtu.be/FW-dl-flLvk**
 
 **hello_streamlit 執行方式**
 
