@@ -8,6 +8,8 @@
 
 https://rwepahello.streamlit.app/
 
+佈署時, 須在 app.py 目錄中新增 requirements.txt, 該檔案記錄 app.py 所使用的模組名稱, 參考範例 [https://github.com/rwepa/teaching-streamlit/blob/main/hello_streamlit/requirements.txt]
+
 # Community Cloud(包括免費版本)
 
 https://streamlit.io/cloud
