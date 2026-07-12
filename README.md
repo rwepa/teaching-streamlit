@@ -16,7 +16,7 @@
 
   https://streamlit.io/cloud
 
-+ **Anaconda 2025.12-2 以後版本已經包括 Streamlit 模組, 不用額外安裝**
++ **Anaconda Distribution 2024.02 以後版本已經內建 Streamlit 模組, 不用額外安裝**
 
 + **conda 安裝 streamlit 方法:**
 
@@ -29,6 +29,10 @@
 + **pip 更新 streamlit:**
 
   + pip install --upgrade streamlit
+ 
++ + **pip 顯示 streamlit 版本資訊:**
+
+  + pip show streamlit
 
 ## 範例1: hello_streamlit 
 
