@@ -110,6 +110,10 @@ https://github.com/rwepa/teaching-streamlit/tree/main/hello_streamlit
 
     4.佈署與結論 (Deployment and Conclusion)
 
+## example4_RWEPA|企鵝生活島嶼(Island)預測系統
+
++ 參考: https://github.com/rwepa/streamlit_penguins_ml
+
 ## 參考資料
 
 1. Streamlit 官網: https://streamlit.io/
