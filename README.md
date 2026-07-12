@@ -20,11 +20,11 @@
 
 + **conda 安裝 streamlit 方法:**
 
-conda install -c conda-forge streamlit
+  + conda install -c conda-forge streamlit
 
-+ **pip 安裝 streamlit 方法:**
++ **pip 安裝 streamlit 方法(建議採用 pip 較快速):**
 
-pip install streamlit
+  + pip install streamlit
 
 ## 範例1: hello_streamlit 
 
