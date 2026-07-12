@@ -40,7 +40,7 @@
  
   + 執行: **streamlit run st_text.py**
 
-## 範例1: hello_streamlit 
+## example1_hello_streamlit 
 
 + 🌸YouTube: https://youtu.be/FW-dl-flLvk
 
@@ -78,7 +78,7 @@ https://github.com/rwepa/teaching-streamlit/tree/main/hello_streamlit
 
   2. requirements.txt 範例 [https://github.com/rwepa/teaching-streamlit/blob/main/hello_streamlit/requirements.txt]  
 
-## 範例2: RWEPA | 登山路線視覺化分析平台 (Python + Streamlit) 
+## example2_RWEPA|登山路線視覺化分析平台
 
 + 🌸YouTube (包括中文字幕)：https://youtu.be/-_zghs2qrIg
 
@@ -88,7 +88,7 @@ https://github.com/rwepa/teaching-streamlit/tree/main/hello_streamlit
 
 + Streamlit 程式碼下載: https://github.com/rwepa/teaching-streamlit-climb
 
-## 範例3: RWEPA | 銷售儀表板 (Python + Streamlit)
+## example3_RWEPA|銷售儀表板
 
 + 🌸YouTube  (包括中文字幕)：https://youtu.be/QmvlYHspvns
 
