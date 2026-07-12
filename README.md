@@ -55,9 +55,9 @@ https://github.com/rwepa/teaching-streamlit/tree/main/hello_streamlit
 
 + Cloud 佈署成果
 
-  + 佈署時, 須在 app.py 目錄中新增 requirements.txt, 該檔案記錄 app.py 所使用的模組名稱,
+  + 佈署時, 須在 app.py 目錄中新增 requirements.txt, 該檔案記錄 app.py 所使用的模組名稱.
 
-  參考範例 [https://github.com/rwepa/teaching-streamlit/blob/main/hello_streamlit/requirements.txt]
+  + requirements.txt 範例 [https://github.com/rwepa/teaching-streamlit/blob/main/hello_streamlit/requirements.txt]
 
   + https://rwepahello.streamlit.app/
 
