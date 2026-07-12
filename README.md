@@ -45,7 +45,7 @@ streamlit run app.py
 
 + 執行成果
 
-執行後將自動開啟瀏覽器或於瀏覽器輸入 [http://localhost:8501/]
+執行後將自動開啟瀏覽器或於瀏覽器輸入 http://localhost:8501/
 
 ![image](https://github.com/rwepa/teaching-streamlit/blob/main/images/hello_streamlit_result.png)
 
