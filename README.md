@@ -21,11 +21,11 @@ Streamlit 是一個以 Python 為核心的開源框架，內建常用的網頁�
 
 **conda 安裝 streamlit 方法:**
 
-  conda install -c conda-forge streamlit
+conda install -c conda-forge streamlit
 
 **pip 安裝 streamlit 方法:**
 
-  pip install streamlit
+pip install streamlit
 
 ## 範例1: hello_streamlit 
 
