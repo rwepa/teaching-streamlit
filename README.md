@@ -45,7 +45,7 @@ streamlit run app.py
 
 + 執行成果
 
-執行後將自動開啟瀏覽器或於瀏覽器輸入 http://localhost:8501/
+執行後將自動開啟瀏覽器或於瀏覽器輸入 [http://localhost:8501/]
 
 ![image](https://github.com/rwepa/teaching-streamlit/blob/main/images/hello_streamlit_result.png)
 
@@ -55,11 +55,11 @@ https://github.com/rwepa/teaching-streamlit/tree/main/hello_streamlit
 
 + Cloud 佈署成果
 
-佈署時, 須在 app.py 目錄中新增 requirements.txt, 該檔案記錄 app.py 所使用的模組名稱,
+  + 佈署時, 須在 app.py 目錄中新增 requirements.txt, 該檔案記錄 app.py 所使用的模組名稱,
 
-參考範例 [https://github.com/rwepa/teaching-streamlit/blob/main/hello_streamlit/requirements.txt]
+  參考範例 [https://github.com/rwepa/teaching-streamlit/blob/main/hello_streamlit/requirements.txt]
 
-https://rwepahello.streamlit.app/
+  + https://rwepahello.streamlit.app/
 
 ## 參考資料
 
