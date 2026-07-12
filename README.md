@@ -26,6 +26,10 @@
 
   + pip install streamlit
 
++ **pip 更新 streamlit:**
+
+  + pip install --upgrade streamlit
+
 ## 範例1: hello_streamlit 
 
 + 🌸YouTube: https://youtu.be/FW-dl-flLvk
