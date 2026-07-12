@@ -34,9 +34,11 @@
 
   + pip show streamlit
 
-+ **文字處理 st_text.py**
++ 文字處理 st_text.py
 
   + 下載: https://github.com/rwepa/teaching-streamlit/blob/main/st_text.py
+ 
+  + 執行: **streamlit run st_text.py**
 
 ## 範例1: hello_streamlit 
 
