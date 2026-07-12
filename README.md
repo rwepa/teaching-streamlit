@@ -2,16 +2,15 @@
 
 + **Streamlit簡介**
 
-Streamlit 是一個以 Python 為核心的開源框架，內建常用的網頁操作控制項，讓你可以用很少的程式碼，快速把 Python 腳本變成互動式 Web 應用程式，特別適合：
-
-+ 資料分析與視覺化
-+ 機器學習模型展示（ML Demo）
-+ AI 應用（如 LLM Chatbot）
-+ 企業級儀表板 (Dashboard)
-+ 快速原型（Prototype）
-+ 建置互動式決策支援系統並協助決策者即時分析售價變動對整體營運的影響
-+ 功能與 R 語言的 shiny 套件類似
-+ streamlit: A faster way to build and share data apps
+  + Streamlit 是一個以 Python 為核心的開源框架，內建常用的網頁操作控制項，讓你可以用很少的程式碼，快速把 Python 腳本變成互動式 Web 應用程式，特別適合：
+    + 資料分析與視覺化
+    + 機器學習模型展示（ML Demo）
+    + AI 應用（如 LLM Chatbot）
+    + 企業級儀表板 (Dashboard)
+    + 快速原型（Prototype）
+    + 建置互動式決策支援系統並協助決策者即時分析售價變動對整體營運的影響
+    + 功能與 R 語言的 shiny 套件類似
+    + streamlit: A faster way to build and share data apps.
 
 + **Streamlit Community Cloud (包括免費/付費佈署 Streamlit):**
 
