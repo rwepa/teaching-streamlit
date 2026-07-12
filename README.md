@@ -30,7 +30,7 @@
 
   + pip install --upgrade streamlit
  
-+ + **pip 顯示 streamlit 版本資訊:**
++ **pip 顯示 streamlit 版本資訊:**
 
   + pip show streamlit
 
