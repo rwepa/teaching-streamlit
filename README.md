@@ -29,7 +29,9 @@ pip install streamlit
 
 ## 範例1: hello_streamlit 
 
-+ YouTube: https://youtu.be/FW-dl-flLvk
++ 🌸YouTube: https://youtu.be/FW-dl-flLvk
+
++ 🌷系統展示: https://rwepahello.streamlit.app/
 
 + 本地端執行方式
 
@@ -55,13 +57,45 @@ streamlit run app.py
 
 https://github.com/rwepa/teaching-streamlit/tree/main/hello_streamlit
 
-+ Cloud 佈署成果
++ LINK: https://rwepa.blogspot.com/2023/01/python-streamlit-dashboard.html
 
-  + 佈署時, 須在 app.py 目錄中新增 requirements.txt, 該檔案記錄 app.py 所使用的模組名稱.
++ Cloud 佈署注意事項:
 
-  + requirements.txt 範例 [https://github.com/rwepa/teaching-streamlit/blob/main/hello_streamlit/requirements.txt]
+  1. 佈署時須在 app.py 目錄中新增 requirements.txt, 該檔案記錄 app.py 所使用的模組名稱.
 
-  + https://rwepahello.streamlit.app/
+  2. requirements.txt 範例 [https://github.com/rwepa/teaching-streamlit/blob/main/hello_streamlit/requirements.txt]  
+
+## 範例2: RWEPA | 登山路線視覺化分析平台 (Python + Streamlit) 
+
++ 🌸YouTube (包括中文字幕)：https://youtu.be/-_zghs2qrIg
+
++ 🌷系統展示: https://rwepa-climb.streamlit.app/
+
++ LINK: https://rwepa.blogspot.com/2023/08/visualization-climbing-routes-with.html
+
++ Streamlit 程式碼下載: https://github.com/rwepa/teaching-streamlit-climb
+
+## 範例3: RWEPA | 銷售儀表板 (Python + Streamlit)
+
++ 🌸YouTube  (包括中文字幕)：https://youtu.be/QmvlYHspvns
+
++ 🌷系統展示: https://rwepa-sales-dashboard.streamlit.app/
+
++ LINK: https://rwepa.blogspot.com/2025/04/python-and-streamlit-sale-dashboard.html
+
++ Streamlit 程式碼下載: https://github.com/rwepa/streamlit-sales-dashboard
+
++ PDF: https://github.com/rwepa/streamlit-sales-dashboard/blob/main/st_sales_dashboard.pdf
+
+  + Outline:
+
+    1.App構思 (App Idea)
+
+    2.App示範 (App Demo)
+
+    3.程式碼解說(Coding: VSCode + Python + Streamlit)
+
+    4.佈署與結論 (Deployment and Conclusion)
 
 ## 參考資料
 
