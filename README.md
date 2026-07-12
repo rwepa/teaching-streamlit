@@ -10,7 +10,7 @@
     + 快速原型（Prototype）
     + 建置互動式決策支援系統並協助決策者即時分析售價變動對整體營運的影響
     + 功能與 R 語言的 shiny 套件類似
-    + streamlit: A faster way to build and share data apps.
+    + Streamlit: A faster way to build and share data apps.
 
 + **Streamlit Community Cloud (包括免費/付費佈署 Streamlit):**
 
