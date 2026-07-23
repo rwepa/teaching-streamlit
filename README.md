@@ -118,7 +118,7 @@ https://github.com/rwepa/teaching-streamlit/tree/main/hello_streamlit
 
 + 系統展示: https://rwepa-pdf2mp3.streamlit.app/
 
-+ GitHub: https://github.com/rwepa/streamlit-pdf2mp3/
++ GitHub(包括佈署至Streamlit教學): https://github.com/rwepa/streamlit-pdf2mp3/
 
 + 本專案採用 Python 搭配 Streamlit 框架開發，提供 PDF 轉換 MP3 語音檔，詳細規格如下：
 
