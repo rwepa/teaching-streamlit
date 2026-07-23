@@ -132,11 +132,13 @@ https://github.com/rwepa/teaching-streamlit/tree/main/hello_streamlit
 
   5.提供 MP3 語音檔下載（Text-to-Speech）。
 
-  6.支援男聲／女聲切換。
+  6.提供線上 MP3 播放。
 
-  7.支援語音播放速度調整。
+  7.支援男聲／女聲切換。
 
-  8.適用於文件閱讀、語音學習及無障礙閱讀等應用場景。
+  8.支援語音播放速度調整。
+
+  9.應用於文件閱讀、語音學習及無障礙閱讀等應用場景。
 
 ## 參考資料
 
